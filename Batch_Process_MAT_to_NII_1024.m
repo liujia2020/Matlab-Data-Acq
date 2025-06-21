@@ -18,11 +18,11 @@ close all;
 % --- 1. 全局配置 (请根据需要修改) ---
 
 % (!!) 指向你的 MATLAB (V6) 输出文件夹
-MATLAB_INPUT_DIR = 'Ultrasound_Simulation_Data_500';
+MATLAB_INPUT_DIR = 'D:\Verasonics_3\Data_Acq_5\Ultrasound_Simulation_Data_500_2';
 
 % (!!) 你希望保存 NIfTI 的新位置
 % (这是原始分辨率的文件夹)
-NIFTI_OUTPUT_DIR = 'Ultrasound_Simulation_Data_500/04_Pair_data_1024';
+NIFTI_OUTPUT_DIR = 'D:\Verasonics_3\Data_Acq_5\Ultrasound_Simulation_Data_500_2/04_Pair_data_1024';
 
 % (!! 核心参数 !!)
 DB_LEVEL = -60;     % 动态范围 (dB)
